@@ -8,3 +8,9 @@ The following files create the same functionality, but using ES6 classes, fetch,
 * index2.html
 * easyhttp2.js
 * app2.js
+
+
+Same functionality as above, using fetch with async and await
+* index3.html
+* easyhttp3.js
+* app3.js
