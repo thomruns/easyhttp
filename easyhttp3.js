@@ -49,8 +49,7 @@ async delete(url) {
       method: 'DELETE',
       headers: {
         'Content-type': 'application/json'
-      },
-      body: JSON.stringify(data)
+      }
     });
     const resData = await 'Resource deleted...';
     return resData;
